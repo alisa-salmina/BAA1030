@@ -14,5 +14,5 @@ Using data from UNICEF, the report visualises:
 👉 [Click here to view the report](https://alisa-salmina.github.io/BAA1030/unicef_python_final)
 
 ## Author
-Alisa Salmina
+Alisa Salmina.
 Student Number: 20447896
